@@ -1,6 +1,8 @@
-*jQuery Z-Index
+jQuery Z-Index
+====
 
-**Usage
+Usage
+----
 
 ```
 $(selector).zindex('up'); //pushes to top of stack
